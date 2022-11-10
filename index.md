@@ -13,7 +13,7 @@ This lesson introduces text analysis for humanities, as well as introduces the [
 This lesson describes [operators](https://docs.constellate.org/key-terms/#operator), [expressions](https://docs.constellate.org/key-terms/#expression), data types, [variables](https://docs.constellate.org/key-terms/#variable), and basic [functions](https://docs.constellate.org/key-terms/#function).
 
 ### Notebook Previews
-* [Python Basics 2](https://github.com/ithaka/constellate-python-basics/blob/main/python-basics-2.ipynb)
+* [Getting Started with Jupyter Notebooks](https://github.com/mollycastro/library_workshop/blob/b0d0938e4cbe88091c8922afa544e3e56b2341d7/3.GettingStartedwithJupyterNotebooks.ipynb)
 
 ## Day 3 (September 13)
 
