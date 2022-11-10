@@ -8,7 +8,7 @@ This lesson introduces text analysis for humanities, as well as introduces the [
 
 ## Day 2 (November 18)
 
-<a href="https://constellate.org/notebook/own/?repo=https%3A%2F%2Fgithub.com%2Fithaka%2Fconstellate-python-basics%2F&urlpath=tree%2Fconstellate-python-basics%2Fpython-basics-2.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>
+[![Launch in Constellate badge](https://constellate.org/images/constellate-badge.svg)](https://constellate.org/notebook/own/?repo=https%3A%2F%2Fgithub.com%2Fmollycastro%2Ftdm-nbs-3-25&urlpath=tree%2Ftdm-nbs-3-25%2F3.GettingStartedwithJupyterNotebooks.ipynb)
 
 This lesson describes [operators](https://docs.constellate.org/key-terms/#operator), [expressions](https://docs.constellate.org/key-terms/#expression), data types, [variables](https://docs.constellate.org/key-terms/#variable), and basic [functions](https://docs.constellate.org/key-terms/#function).
 
