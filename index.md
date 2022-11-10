@@ -1,30 +1,18 @@
-# Python Basics for Absolute Beginners
+# Text Analysis with Python for Absolute Beginners
 
-## Day 1 (September 6)
+## Day 1 (November 16)
 
-<a href="https://constellate.org/notebook/own/?repo=https%3A%2F%2Fgithub.com%2Fithaka%2Fconstellate-python-basics%2F&urlpath=tree%2Fconstellate-python-basics%2Fgetting-started-with-jupyter.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>
-
-This lesson introduces Jupyter notebooks and Python for absolute beginners. If you are completely new to text analysis, this is the place to start. This lesson describes [operators](https://docs.constellate.org/key-terms/#operator), [expressions](https://docs.constellate.org/key-terms/#expression), data types, [variables](https://docs.constellate.org/key-terms/#variable), and basic [functions](https://docs.constellate.org/key-terms/#function).
-
+This lesson introduces text analysis for humanities, as well as introduces the [Constellate platform](https://constellate.org/) and it's corpus builder. Slides are available [here](https://www.canva.com/design/DAE7EIKQJdg/gguhvldVcyNIMNl--nPxbw/view#8). 
 ### Notebook Previews
-* [Getting Started with Jupyter Notebooks](https://github.com/ithaka/constellate-python-basics/blob/main/getting-started-with-jupyter.ipynb)
-* [Python Basics 1](https://github.com/ithaka/constellate-python-basics/blob/main/python-basics-1.ipynb)
 
-## Day 2 (September 8)
+
+## Day 2 (November 18)
 
 <a href="https://constellate.org/notebook/own/?repo=https%3A%2F%2Fgithub.com%2Fithaka%2Fconstellate-python-basics%2F&urlpath=tree%2Fconstellate-python-basics%2Fpython-basics-2.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>
 
-This lesson describes the basics of [flow control statements](https://docs.constellate.org/key-terms/#flow-control-statement) including:
-* [Boolean values](https://docs.constellate.org/key-terms/#boolean-value)
-* [Boolean operators](https://docs.constellate.org/key-terms/#boolean-operator)
-* [Comparison operators](https://docs.constellate.org/key-terms/#comparison-operator)
-* `if` statements
-* `else` statements
-* `elif` statements
-* `while` and `for` loop statements
-* Handling errors with `try` and `except`
+This lesson describes [operators](https://docs.constellate.org/key-terms/#operator), [expressions](https://docs.constellate.org/key-terms/#expression), data types, [variables](https://docs.constellate.org/key-terms/#variable), and basic [functions](https://docs.constellate.org/key-terms/#function).
 
-### Notebook Preview
+### Notebook Previews
 * [Python Basics 2](https://github.com/ithaka/constellate-python-basics/blob/main/python-basics-2.ipynb)
 
 ## Day 3 (September 13)
