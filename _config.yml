@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: Text Analysis with Python for Absolute Beginners 
-description: This website contains the learning materials for a 2-part workshop on learning text analysis with Python and Constellate, presented by FIU Libraries' Digital Scholar Studio. Jupyter notebooks are borrowed from Northeastern University Library's workshop.
+description: This website contains the learning materials for a 2-part workshop on learning text analysis with Python and Constellate, presented by FIU Libraries' Digital Scholar Studio. Jupyter notebooks are (gratefully!) borrowed from Northeastern University Libraries.
 show_downloads: false # shows download links for the repository
 logo: constellate.png # can easily be replaced with an institutional logo by uploading a new file
